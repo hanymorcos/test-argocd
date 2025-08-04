@@ -1,4 +1,4 @@
 replicaCount: 1
 image:
-  repository: yourdockerhub/nginx-app
+  repository: nginx
   tag: latest

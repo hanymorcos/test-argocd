@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/your-username/gitops-macbook-demo.git
+    repoURL: https://github.com/hanymorcos/test-argocd.git
     targetRevision: HEAD
     path: apps/nginx-chart
     helm:
